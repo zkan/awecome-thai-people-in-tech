@@ -1,2 +1,26 @@
-# awecome-thai-people-in-tech
-A curated list of awesome Thai people in technology
+# Awesome Thai People in Technology
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+ถ้าใครไม่สบายใจสามารถแจ้งมาได้เลยนะครับ 🤟
+
+* [Chanwit Kaewkasi](https://github.com/chanwit)
+* [Chonlatee Jumratsee](https://github.com/chonlatee)
+* [Kanisorn (First) Sutham](https://github.com/heyfirst/)
+* [Kotchaphan Muangsan](https://github.com/WeRockStar)
+* [Krist Wongsuphasawat](https://github.com/kristw)
+* [Mahasak Pijittum](https://github.com/mahasak)
+* [Manatsawin Hanmongkolchai](https://github.com/whs)
+* [Narate Ketram](https://github.com/narate)
+* [Nat Weerawan](https://github.com/NAzT)
+* [Pallat Anchaleechamaikorn](https://github.com/pallat)
+* [Pattarawat Chormai](https://github.com/heytitle)
+* [Phoomparin Mano](https://github.com/heypoom)
+* [Sittiphol Phanvilai (nuuneoi)](https://nuuneoi.com)
+* [Somkiat Puisungnoen](https://github.com/up1)
+* [Sudarat (Gatuk) Chattanon](https://github.com/gatukgl)
+* [Supasate "Ping" Choochaisri](https://github.com/supasate)
+* [Thai Pangsakulyanont](https://github.com/dtinth)
+* [Todsaporn Banjerdkit](https://github.com/katopz)
+* [Unnawut Leepaisalsuwanna](https://github.com/unnawut)
+* [Varayut Lerdkanlayanawat](https://github.com/lvarayut)
+* [Vee Satayamas](https://github.com/veer66)
