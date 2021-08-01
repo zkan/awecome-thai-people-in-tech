@@ -4,6 +4,7 @@
 ถ้าใครไม่สบายใจสามารถแจ้งมาได้เลยนะครับ 🤟
 
 * [Chanwit Kaewkasi](https://github.com/chanwit)
+* [Chokchai Phatharamalai](https://github.com/juacompe)
 * [Chonlatee Jumratsee](https://github.com/chonlatee)
 * [Kanisorn (First) Sutham](https://github.com/heyfirst/)
 * [Kotchaphan Muangsan](https://github.com/WeRockStar)
@@ -14,6 +15,7 @@
 * [Nat Weerawan](https://github.com/NAzT)
 * [Pallat Anchaleechamaikorn](https://github.com/pallat)
 * [Pattarawat Chormai](https://github.com/heytitle)
+* [Phongsak Ritpitakphong](https://github.com/poorprogrammer)
 * [Phoomparin Mano](https://github.com/heypoom)
 * [Sittiphol Phanvilai (nuuneoi)](https://nuuneoi.com)
 * [Somkiat Puisungnoen](https://github.com/up1)
@@ -21,6 +23,7 @@
 * [Supasate "Ping" Choochaisri](https://github.com/supasate)
 * [Thai Pangsakulyanont](https://github.com/dtinth)
 * [Todsaporn Banjerdkit](https://github.com/katopz)
+* [Twin Panichsombat](https://github.com/roofimon)
 * [Unnawut Leepaisalsuwanna](https://github.com/unnawut)
 * [Varayut Lerdkanlayanawat](https://github.com/lvarayut)
 * [Vee Satayamas](https://github.com/veer66)
