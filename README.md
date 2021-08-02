@@ -5,6 +5,7 @@
 เผื่อเราอาจจะได้มีโอกาสร่วมมือกันผลักดันสังคมไทยในอนาคต
 ถ้าใครไม่สบายใจสามารถแจ้งมาได้เลยนะครับ 🤟
 
+* [Anuchit Prasertsang](https://github.com/AnuchitO)
 * [Antira Loachote](https://github.com/AntiraLoachote)
 * [Athibet Prawane](https://github.com/atbee)
 * [Chakrit Wichian](https://github.com/chakrit)
